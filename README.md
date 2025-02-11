@@ -1,5 +1,10 @@
 # Generative Adversarial Networks for Synthetic Node Expansion in MOF Material Graphs
 
+
+<p align="center">
+  <img src="GAN-MOF.png" alt="GraphDBScan" width="400" height="400">
+</p>
+
 ## Overview
 This project explores the use of **Generative Adversarial Networks (GANs)** for generating synthetic nodes within **MOFGalaxyNet**, a material graph representation for Metal-Organic Frameworks (MOFs). By leveraging deep learning techniques, we aim to expand MOF material networks by introducing synthetic nodes that correspond to novel MOFs with predicted properties and structures.
 
